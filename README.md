@@ -8,4 +8,6 @@
 
 The movie review data can be found under "movie_review_train.csv" and image data within the "image_dataset" folder.
 
+My final report can be found under "Report Final.pdf".
+
 Final grade: First class (93%)
